@@ -31,6 +31,20 @@ See [DESIGN_DOCUMENT.md](DESIGN_DOCUMENT.md) for the complete development bluepr
 | Backend | Firebase |
 | Platforms | iOS, Android |
 
+## Development Phases
+
+> Mark phases: `[ ]` = Not Started, `[~]` = In Progress, `[x]` = Complete
+
+- [~] **Phase 1 — Pre-Production & Planning** — Finalize rules, set up Unity project, wireframes, art direction, CI/CD
+- [ ] **Phase 2 — Core Engine & Game Logic** — Card data models, game state machine, trick/scoring logic, unit tests
+- [ ] **Phase 3 — UI/UX Design & Visual Assets** — All game screens, card assets, responsive layouts, safe-area handling
+- [ ] **Phase 4 — Multiplayer & Networking** — Photon integration, matchmaking, state sync, crossplay, reconnection
+- [ ] **Phase 5 — AI Opponents** — Easy/Medium/Hard difficulty bots, card counting, natural play timing
+- [ ] **Phase 6 — Polish, Animation & Audio** — Card animations, SFX, music, haptics, particle effects
+- [ ] **Phase 7 — Testing & QA** — Unit tests, multiplayer stress tests, device testing, beta testing
+- [ ] **Phase 8 — Store Preparation & Deployment** — App Store & Play Store listings, screenshots, compliance, submission
+- [ ] **Phase 9 — Post-Launch & Live Operations** — Crash monitoring, reviews, balance patches, feature updates
+
 ## Status
 
-Currently in **pre-production** — design and planning phase.
+Currently in **Phase 1 — Pre-Production & Planning**.
