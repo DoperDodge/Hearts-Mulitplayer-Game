@@ -36,7 +36,7 @@ See [DESIGN_DOCUMENT.md](DESIGN_DOCUMENT.md) for the complete development bluepr
 > Mark phases: `[ ]` = Not Started, `[~]` = In Progress, `[x]` = Complete
 
 - [~] **Phase 1 — Pre-Production & Planning** — Finalize rules, set up Unity project, wireframes, art direction, CI/CD
-- [~] **Phase 2 — Core Engine & Game Logic** — Card data models, game state machine, trick/scoring logic, unit tests
+- [x] **Phase 2 — Core Engine & Game Logic** — Card data models, game state machine, trick/scoring logic, unit tests
 - [ ] **Phase 3 — UI/UX Design & Visual Assets** — All game screens, card assets, responsive layouts, safe-area handling
 - [ ] **Phase 4 — Multiplayer & Networking** — Photon integration, matchmaking, state sync, crossplay, reconnection
 - [ ] **Phase 5 — AI Opponents** — Easy/Medium/Hard difficulty bots, card counting, natural play timing
@@ -47,4 +47,4 @@ See [DESIGN_DOCUMENT.md](DESIGN_DOCUMENT.md) for the complete development bluepr
 
 ## Status
 
-Currently in **Phase 2 — Core Engine & Game Logic**.
+**Phase 2 complete.** Ready for Phase 3 (UI/UX) and beyond.
